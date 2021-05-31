@@ -7,4 +7,4 @@
 这里将留下我在前端路上的印记。
 
 
- Jekyll Theme: [jekyll-theme-chirpy] (https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/README.zh-CN.md)
+ Jekyll Theme: [jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/docs/README.zh-CN.md)
